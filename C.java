@@ -1,5 +1,5 @@
 class C {
    method2() {
-      //customer information logic
+      //customer information logic with biometrics information
     }
 }
